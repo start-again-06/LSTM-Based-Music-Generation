@@ -15,7 +15,7 @@ The project is designed with modularity and extensibility in mind, making it sui
 
 ## Core Idea  
 
-Music is inherently sequential — each note depends on previous notes. Traditional neural networks struggle with long-term dependencies, but LSTMs are specifically designed to retain contextual memory across long sequences.
+Music is inherently sequential, each note depends on previous notes. Traditional neural networks struggle with long-term dependencies, but LSTMs are specifically designed to retain contextual memory across long sequences.
 
 This system includes:
 
